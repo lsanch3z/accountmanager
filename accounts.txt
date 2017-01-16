@@ -1,0 +1,9 @@
+10590 Smith 108.0
+18191 Rios 815.0
+21561 Atkins 1699.12
+21918 Rincon 6860.0
+61315 evlarg 1864.06
+63151 Joker 1568.0
+65198 Washington 578.0
+81612 Hardy 573.0
+91915 Sanchez 573.0
